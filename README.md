@@ -1,11 +1,7 @@
-# Prediction-with-machine-learning-models
+
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Ironhack Datathone Fall 2020
-* Carla Feriche *	
-* Pau Sancho * 	
-* Pol Serramalera Guerin *	
-* Àlex Gómez Segura *	
+# Ironhack Datathon Fall 2020
 * Carla Feriche 
 * Pau Sancho 	
 * Pol Serramalera Guerin	
@@ -27,3 +23,15 @@ The questions that we want to answer with this project are:
 - Should we reduce the number of cookies we sell and focus on those that have the best quality? 
 ## Dataset
 For this project we used a dataset with 16 columns with cookies measurements and the quality, with over 5000 rows of different types of cookies. 
+## Workflow
+1-Define work
+2-Review data set
+3-Cleaned the data
+4-Analyse data
+5-ML Modeling
+6-Prepare Presentation
+## Organization
+To organize the work we created a Trello project where we listed all the items that we had to complete to deliver the project. 
+This repository contains a readme document with some basic information about the project, a .gitignore document and a folder with a jupyter noteboks with the code used for the ML project and the dataset.  
+## Links 
+[Trello](https://trello.com/b/ZMuVVHuV/ml-competition)
